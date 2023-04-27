@@ -1,0 +1,12 @@
+luciatest2021_11_19_12_39_20_efficientPATHFILE
+Environment	Trial	Time(ms)	Start	StartLocationX	StartLocationZ	Target	TargetLocationX	TargetLocationZ	OptimalPathX	OptimalPathZ
+1	2	92100	CityHall	-95.16	-127.4	Barn	41.40001	38.16	-95.16	-127.4
+1	2	92100	CityHall	-95.16	-127.4	Barn	41.40001	38.16	-59.658	-71.004
+1	2	92100	CityHall	-95.16	-127.4	Barn	41.40001	38.16	-5.124001	-5.673004
+1	2	92100	CityHall	-95.16	-127.4	Barn	41.40001	38.16	0	0
+1	2	92100	CityHall	-95.16	-127.4	Barn	41.40001	38.16	41.40001	38.16
+1	4	339260	CityHall	-95.16	-127.4	Barn	41.40001	38.16	-95.16	-127.4
+1	4	339260	CityHall	-95.16	-127.4	Barn	41.40001	38.16	-59.658	-71.004
+1	4	339260	CityHall	-95.16	-127.4	Barn	41.40001	38.16	-5.124001	-5.673004
+1	4	339260	CityHall	-95.16	-127.4	Barn	41.40001	38.16	0	0
+1	4	339260	CityHall	-95.16	-127.4	Barn	41.40001	38.16	41.40001	38.16

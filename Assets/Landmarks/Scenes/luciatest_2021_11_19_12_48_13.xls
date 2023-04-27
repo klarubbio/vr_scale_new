@@ -1,0 +1,5 @@
+luciatest2021_11_19_12_48_13
+Environment	Trial	Start	StartLocationX	StartLocationZ	Target	TargetLocationX	TargetLocationZ	OptimalDistance	DistanceThreshold	WalkedDistance	DistanceError	TotalTime
+1	5	Barn	41.40001	38.16	CityHall	-95.16	-127.4	0	0	217.8714	217.8714	15006.35
+1	6	CityHall	-95.16	-127.4	Barn	41.40001	38.16	215.6962	301.9746	210.8525	-4.843643	15402.13
+1	7	Barn	41.40001	38.16	CityHall	-95.16	-127.4	0	0	227.3118	227.3118	13637.1

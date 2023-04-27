@@ -1,0 +1,10 @@
+Navigation Learning
+
+You must navigate between locations in the environment
+and learn the shortest routes between them.
+
+There is a 2 hour time limit for the entire session,
+and if you do not learn all of the routes during this session, 
+you will continue where you left off during the next session.
+
+Press A to continue

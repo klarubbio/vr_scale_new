@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2983508892728714443
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7455884978702914235}
+  - component: {fileID: 926826393902179549}
+  m_Layer: 0
+  m_Name: WayPointsForOld
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7455884978702914235
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2983508892728714443}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &926826393902179549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2983508892728714443}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9998717700bd9834bb0c0171f541a5d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waypoints:
+  - {fileID: 6242844384959225540, guid: 14d480f534d95ee43a68980708857aaf, type: 3}
+  - {fileID: 8603837477706268733, guid: d51295d117c2d814b96c27a6dd48f071, type: 3}
+  - {fileID: 789273859248860529, guid: eddbe07f26e818e479cad6560f4b18bc, type: 3}
+  - {fileID: 7139839223935064450, guid: 731cc8cd55b7e324da07b1333322d4ee, type: 3}
+  - {fileID: 2374158817432473178, guid: 81e55651b43ec0340a6e00e07c9c570d, type: 3}
+  - {fileID: 1891787587560260878, guid: c92fe2a9ca76fed438ad0c4fc6a450eb, type: 3}
+  - {fileID: 4304077380047974642, guid: 87c59fb76320ce9469ec3e9cbf500421, type: 3}
+  - {fileID: 9099855677876498375, guid: 7c2e2d9881ad4774fae4f3fe4ccb415d, type: 3}
+  - {fileID: 8099869888873260928, guid: b0604f2a2399cdb41807a4ce1c90ada6, type: 3}
+  - {fileID: 7681683944550792826, guid: 043b9e8e6f8216840a782d160aa94215, type: 3}
+  - {fileID: 1358497300331585031, guid: 0cad1195d89179347bef03c3f46b42da, type: 3}
+  - {fileID: 5211307826274286407, guid: 66217a37873a8954e95798080b399df4, type: 3}
+  - {fileID: 3717403586196480010, guid: 6b78949e31630134c857415d01dfd61f, type: 3}
+  - {fileID: 188413094724870635, guid: ad19a14c7fb09cf47820d66380de6bc8, type: 3}

@@ -1,0 +1,5 @@
+luciatestv22021_11_19_02_00_23
+Environment	Trial	Start	StartLocationX	StartLocationZ	Target	TargetLocationX	TargetLocationZ	OptimalDistance	DistanceThreshold	WalkedDistance	DistanceError	TotalTime
+1	4	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	44.64103	62.49744	58.085	13.44397	38994.91
+1	5	Barber Shop	22.75	-14.65	Bakery	-19.71	-17.87	44.64103	62.49744	50.0051	5.364075	12188.9
+1	6	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	44.64103	62.49744	52.06195	7.420921	16780.14

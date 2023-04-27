@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "name": "/actions/landmarks/in/TouchpadButton",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/landmarks/in/TriggerButton",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/landmarks/in/GripButton",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/landmarks/in/Pose",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/landmarks/in/SkeletonLeftHand",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/left"
+    },
+    {
+      "name": "/actions/landmarks/in/SkeletonRightHand",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/right"
+    },
+    {
+      "name": "/actions/landmarks/in/TriggerSqueeze",
+      "type": "vector1",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/landmarks/in/TouchpadTouch",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/landmarks/in/TouchpadPosition",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/landmarks/in/ButtonStartMenu",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/landmarks/in/TriggerTouch",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/landmarks/in/TouchpadTwoTouch",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/landmarks/in/TouchpadTwoPosition",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/landmarks/in/TouchpadTwoButton",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/landmarks/in/GripTouch",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/landmarks/in/GripSqueeze",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/landmarks/in/ButtonOneTouch",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/landmarks/in/ButtonOneClick",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/landmarks/in/ButtonTwoTouch",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/landmarks/in/ButtonTwoClick",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/landmarks/out/Haptic",
+      "type": "vibration"
+    }
+  ],
+  "action_sets": [
+    {
+      "name": "/actions/landmarks",
+      "usage": "single"
+    }
+  ],
+  "default_bindings": [
+    {
+      "controller_type": "vive_controller",
+      "binding_url": "bindings_vive_controller.json"
+    },
+    {
+      "controller_type": "oculus_touch",
+      "binding_url": "bindings_oculus_touch.json"
+    },
+    {
+      "controller_type": "knuckles",
+      "binding_url": "bindings_knuckles.json"
+    },
+    {
+      "controller_type": "holographic_controller",
+      "binding_url": "bindings_holographic_controller.json"
+    }
+  ],
+  "localization": [
+    {
+      "language_tag": "en_US"
+    }
+  ]
+}

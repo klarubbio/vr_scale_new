@@ -1,0 +1,23 @@
+luciatestv22021_11_19_02_00_23_efficientPATHFILE
+Environment	Trial	Time(ms)	Start	StartLocationX	StartLocationZ	Target	TargetLocationX	TargetLocationZ	OptimalPathX	OptimalPathZ
+1	4	73080	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	-19.71	-17.87
+1	4	73080	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	-9.916667	-20.4
+1	4	73080	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	-3.966667	-20.4
+1	4	73080	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	2.833333	-15.58333
+1	4	73080	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	11.61667	-13.6
+1	4	73080	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	17.56667	-13.6
+1	4	73080	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	22.75	-14.65
+1	5	95299.99	Barber Shop	22.75	-14.65	Bakery	-19.71	-17.87	22.75	-14.65
+1	5	95299.99	Barber Shop	22.75	-14.65	Bakery	-19.71	-17.87	17.56667	-13.6
+1	5	95299.99	Barber Shop	22.75	-14.65	Bakery	-19.71	-17.87	11.61667	-13.6
+1	5	95299.99	Barber Shop	22.75	-14.65	Bakery	-19.71	-17.87	2.833333	-15.58333
+1	5	95299.99	Barber Shop	22.75	-14.65	Bakery	-19.71	-17.87	-3.966667	-20.4
+1	5	95299.99	Barber Shop	22.75	-14.65	Bakery	-19.71	-17.87	-9.916667	-20.4
+1	5	95299.99	Barber Shop	22.75	-14.65	Bakery	-19.71	-17.87	-19.71	-17.87
+1	6	122120	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	-19.71	-17.87
+1	6	122120	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	-9.916667	-20.4
+1	6	122120	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	-3.966667	-20.4
+1	6	122120	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	2.833333	-15.58333
+1	6	122120	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	11.61667	-13.6
+1	6	122120	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	17.56667	-13.6
+1	6	122120	Bakery	-19.71	-17.87	Barber Shop	22.75	-14.65	22.75	-14.65
